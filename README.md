@@ -2,7 +2,7 @@
 
 ## Estudiante de Ingenieria en Informatica.
 
-- Conocimientos basicos de diseño, y programacion de base de datos SQL en MySQL, MariaDB, SQLServer.
+- Conocimientos basicos de diseño, programacion de base de datos SQL en MySQL, MariaDB, SQLServer.
 - Programacion Básica en web, android.
 - Instalacion de Sistemas opetativos en linxu y windows.
 - Conocimiento Básicos en Internet of Things.
