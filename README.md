@@ -1,6 +1,6 @@
-## Bienvenido a mi espacio
+# Bienvenido a mi espacio
 
-# Estudiante de Ingenieria en Informatica.
+## Estudiante de Ingenieria en Informatica.
 
 - Conocimientos basicos de diseño, y programacion de base de datos SQL en MySQL, MariaDB, SQLServer.
 - Programacion Básica en web, android.
