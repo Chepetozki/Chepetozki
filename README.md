@@ -1,6 +1,12 @@
 ## Bienvenido a mi espacio
 
-- basados
+# Estudiante de Ingenieria en Informatica.
+
+- Conocimientos basicos de diseño, y programacion de base de datos SQL en MySQL, MariaDB, SQLServer.
+- Programacion Básica en web, android.
+- Instalacion de Sistemas opetativos en linxu y windows.
+- Conocimiento Básicos en Internet of Things.
+- Conocimientos en diseño de software, identificacion de requerimientos.
 
 <!--
 **Chepetozki/Chepetozki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
