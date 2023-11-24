@@ -2,6 +2,8 @@
 
 ## Estudiante de Ingenieria en Informatica.
 
+Me interesa estar constantemente aprendiendo tecnologias y areas de la informatica. Aprender de manera autodicta, y usar mis conocimientos para desarrollar proyectos.
+
 - Conocimientos basicos de diseño, programacion de base de datos SQL en MySQL, MariaDB, SQLServer.
 - Programacion Básica en web, android.
 - Conocimientos Básico en instalacion de Sistemas opetativos en Linux y Windows.
