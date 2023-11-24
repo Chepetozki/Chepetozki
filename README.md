@@ -4,7 +4,7 @@
 
 - Conocimientos basicos de diseño, programacion de base de datos SQL en MySQL, MariaDB, SQLServer.
 - Programacion Básica en web, android.
-- Conocimientos Básico en instalacion de Sistemas opetativos en linxu y windows.
+- Conocimientos Básico en instalacion de Sistemas opetativos en Linux y Windows.
 - Conocimiento Básicos en Internet of Things.
 - Conocimientos en diseño de software, identificacion de requerimientos.
 
